@@ -48,10 +48,6 @@
  
   ### Programming Languages 
 <div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a> 
- <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img  style="margin: 10px"src="https://user-images.githubusercontent.com/93479842/216337743-9c73006f-dc9a-4271-be00-d88789819d0b.png" alt="php" width="40" height="40"/> </a>
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://user-images.githubusercontent.com/93479842/216337780-c81422db-52d5-4530-81db-cd9c8fa76a03.png" alt="java" width="40" height="40"/> </a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 </div>
  
@@ -61,7 +57,9 @@
   ### Editing skills
 <div align="center">
  - Video Editing
+ 
  - Graphic Design
+ 
  - Content Writer
 </div>
  
