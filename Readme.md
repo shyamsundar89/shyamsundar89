@@ -11,21 +11,21 @@
 
 - 🔭 I’m currently working on [E-Commerce Website](https://e-commerce-website-delta-ruby.vercel.app/)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Java Script**
 
-- 💬 Ask me about **python, java**
+- 💬 Ask me about **C, Video Editing**
 
-- 📫 How to reach me **rohitashyaduvanshi855@gmail.com**
+- 📫 How to reach me **tdshyamsundar2005@gmail.com**
 
 - 📄 Know about my experiences [Shyam Sundar Resume.pdf](https://github.com/Rohitashsingh89/Personal-use/files/10836180/Rohitash.Singh.Resume.pdf)
 
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/rohitashsingh89" target="_blank">
+<a href="https://github.com/shyamsundar89" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/rohitash-singh-12a879213" target="_blank">
+<a href="https://www.linkedin.com/in/shyam-sundar-1593b1278/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
