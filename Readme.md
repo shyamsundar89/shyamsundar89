@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitashsingh89&label=Profile%20views&color=0e75b6&style=flat" alt="rohitashsingh89" /> </p>
 
-- 🔭 I’m currently working on [E-Commerce Website](https://e-commerce-website-delta-ruby.vercel.app/)
+- 🔭 I’m currently working on My Youtube Channel
 
 - 🌱 I’m currently learning **Java Script**
 
@@ -56,7 +56,7 @@
 
   ### Editing skills
 <div align="center">
- - Video Editing
+ -  Video Editing
  
  - Graphic Design
  
